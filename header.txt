@@ -1,0 +1,70 @@
+  <div class="position_body">
+        <div class="container">
+            <div class="head_position">
+                <section class="header-background">
+                    <div class="blog_Welcome">
+                        <h1>Welcome to impact.</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio fugiat blanditiis
+                            debitis,
+                            reiciendis sit amet.
+                        </p>
+                        <div class="welvome">
+                            <input type="button" class="get_started" value="Get Started">
+                        </div>
+                        <div class="welcome_eleemnt">
+                            <input type="button" value="Watch Viedo">
+                            <svg class="icon-welcome" xmlns="http://www.w3.org/2000/svg" width="30" height="40"
+                                fill="currentColor" class="bi bi-play-circle" viewBox="0 0 16 16">
+                                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                                <path
+                                    d="M6.271 5.055a.5.5 0 0 1 .52.038l3.5 2.5a.5.5 0 0 1 0 .814l-3.5 2.5A.5.5 0 0 1 6 10.5v-5a.5.5 0 0 1 .271-.445z" />
+                            </svg>
+                        </div>
+
+
+                    </div>
+                    <div class="hero-img">
+                        <img src="img/hero-img.svg" alt="">
+                    </div>
+                    <div style="clear: both;"></div>
+
+                </section>
+                <section class="position_4">
+                    <div class="blog_pos4">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" fill="currentColor"
+                            class="bi bi-laptop" viewBox="0 0 16 16">
+                            <path
+                                d="M13.5 3a.5.5 0 0 1 .5.5V11H2V3.5a.5.5 0 0 1 .5-.5h11zm-11-1A1.5 1.5 0 0 0 1 3.5V12h14V3.5A1.5 1.5 0 0 0 13.5 2h-11zM0 12.5h16a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5z" />
+                        </svg>
+                        <p><a href="">Lorem, ipsum.</a></p>
+                    </div>
+                    <div class="blog_pos4">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" fill="currentColor"
+                            class="bi bi-gem" viewBox="0 0 16 16">
+                            <path
+                                d="M3.1.7a.5.5 0 0 1 .4-.2h9a.5.5 0 0 1 .4.2l2.976 3.974c.149.185.156.45.01.644L8.4 15.3a.5.5 0 0 1-.8 0L.1 5.3a.5.5 0 0 1 0-.6l3-4zm11.386 3.785-1.806-2.41-.776 2.413 2.582-.003zm-3.633.004.961-2.989H4.186l.963 2.995 5.704-.006zM5.47 5.495 8 13.366l2.532-7.876-5.062.005zm-1.371-.999-.78-2.422-1.818 2.425 2.598-.003zM1.499 5.5l5.113 6.817-2.192-6.82L1.5 5.5zm7.889 6.817 5.123-6.83-2.928.002-2.195 6.828z" />
+                        </svg>
+                        <p><a href="">Lorem, ipsum dolor.</a></p>
+                    </div>
+                    <div class="blog_pos4">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" fill="currentColor"
+                            class="bi bi-geo-alt" viewBox="0 0 16 16">
+                            <path
+                                d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A31.493 31.493 0 0 1 8 14.58a31.481 31.481 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94zM8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10z" />
+                            <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
+                        </svg>
+                        <p><a href="">Lorem, ipsum.</a></p>
+                    </div>
+                    <div class="blog_pos4">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" fill="currentColor"
+                            class="bi bi-command" viewBox="0 0 16 16">
+                            <path
+                                d="M3.5 2A1.5 1.5 0 0 1 5 3.5V5H3.5a1.5 1.5 0 1 1 0-3zM6 5V3.5A2.5 2.5 0 1 0 3.5 6H5v4H3.5A2.5 2.5 0 1 0 6 12.5V11h4v1.5a2.5 2.5 0 1 0 2.5-2.5H11V6h1.5A2.5 2.5 0 1 0 10 3.5V5H6zm4 1v4H6V6h4zm1-1V3.5A1.5 1.5 0 1 1 12.5 5H11zm0 6h1.5a1.5 1.5 0 1 1-1.5 1.5V11zm-6 0v1.5A1.5 1.5 0 1 1 3.5 11H5z" />
+                        </svg>
+                        <p><a href="">Lorem, ipsum.</a></p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+

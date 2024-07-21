@@ -1,0 +1,95 @@
+ <section class="about-us">
+            <div class="container">
+                <h1 class="about-1h1">About Us</h1>
+
+                <hr style="width: 60px; height: 4px; background-color:#008d7d ;margin: 10px auto;">
+                <p class="about-p1">Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt
+                    dolores placeat sunt id nobis omnis tiledo stran delop
+                </p>
+                <div class="aboutblog">
+                    <div class="aboutBlog-left">
+                        <h1>Voluptatem dignissimos provident quasi corporis</h1>
+                        <img src="img/about.jpg" alt="">
+                        <p>Ut fugiat ut sunt quia veniam. Voluptate perferendis perspiciatis quod nisi et. Placeat
+                            debitis quia recusandae odit et consequatur voluptatem. Dignissimos pariatur consectetur
+                            fugiat voluptas ea.
+                        </p>
+                        <p>
+                            Temporibus nihil enim deserunt sed ea. Provident sit expedita aut cupiditate nihil vitae
+                            quo officia vel. Blanditiis eligendi possimus et in cum. Quidem eos ut sint rem veniam
+                            qui. Ut ut repellendus nobis tempore doloribus debitis explicabo similique sit.
+                            Accusantium sed ut omnis beatae neque deleniti repellendus.
+                        </p>
+                    </div>
+                    <div class="aboutBlog-right">
+                        <p class="rightBlog-p">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                            incididunt ut labore et dolore magna aliqua.
+                        </p>
+                        <div class="right-abouticon">
+                            <svg class="abouticon1" xmlns="http://www.w3.org/2000/svg" width="25" height="25"
+                                fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16">
+                                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                                <path
+                                    d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z" />
+                            </svg>
+                            <svg class="abouticon2" xmlns="http://www.w3.org/2000/svg" width="25" height="25"
+                                fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16">
+                                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                                <path
+                                    d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z" />
+                            </svg>
+                            <svg class="abouticon3" xmlns="http://www.w3.org/2000/svg" width="25" height="25"
+                                fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16">
+                                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                                <path
+                                    d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z" />
+                            </svg>
+                            <p class="abouticonp1">Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                                irure dolor in reprehenderit in voluptate trideta</p>
+                            <p class="abouticonp2">Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                                irure dolor in reprehenderit in voluptate trideta</p>
+                            <p class="abouticonp3">Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                                irure dolor in reprehenderit in voluptate trideta</p>
+                        </div>
+                        <p class="aboutpend">Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                            Excepteur sint occaecat cupidatat non proident</p>
+                        <img src="img/about-2.jpg" alt="" class="aboutimg-end">
+                    </div>
+                </div>
+                <div class="stats">
+                    <div class="stats-left">
+                        <img src="img/stats-img.svg" alt="">
+                    </div>
+                    <div class="stats-right">
+                        <div class="statsRight-top">
+                            <h1>232</h1>
+                            <h2><span>Happy Clients</span> consequuntur quae diredo para mesta</h2>
+                        </div>
+                        <div class="statsRight-top">
+                            <h1>777</h1>
+                            <h2><span>Projects</span> adipisci atque cum quia auta</h2>
+
+                        </div>
+                        <div class="statsRight-top">
+                            <h1>521</h1>
+                            <h2><span>Hours Of Support</span> aut commodi quaerat</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="cta-bg">
+                    <h1>Call To Action</h1>
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                        mollit anim id est laborum.
+
+                    </p>
+                    <input type="button" value="Call To Action">
+                </div>
+
+            </div>
+
+            
+    </section>
+
